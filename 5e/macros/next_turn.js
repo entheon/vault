@@ -1,0 +1,1 @@
+game.combats.active?.nextTurn()

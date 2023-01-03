@@ -1,0 +1,21 @@
+{
+    "id": "stella",
+    "title": "STELLA",
+    "description": "STELLA is a simple module containing items, macros, and other small things that help and improve my personal DM experience. ",
+    "authors": [
+        {
+            "name": "RyanLiu6",
+            "url": "https://github.com/ryanliu6"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "url": "https://github.com/Daoists/stella",
+    "manifest": "https://raw.githubusercontent.com/foundry-vtt-community/macros/main/module.json",
+    "bugs": "https://github.com/Daoists/stella/issues",
+    "readme": "https://raw.githubusercontent.com/Daoists/stella/master/README.md",
+    "changelog": "https://github.com/Daoists/stella/releases"
+}
