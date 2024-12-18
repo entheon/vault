@@ -1,6 +1,5 @@
-# STELLA
-## What is STELLA?
-STELLA is my very own FoundryVTT module containing items, macros, and other small things that help me DM my games.
+# Vault
+Vault is my very own FoundryVTT module containing items, macros, and other small things that help me DM my games.
 
 It's also just an excuse for me to learn more about Foundry's extensive module system. I hope you find something useful in this collection of mine!
 
